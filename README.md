@@ -8,11 +8,3 @@ Integrates the employee's personal photo into the generated card using backgroun
 Adds personalized text to the card, including birthday wishes and the employee's name.
 Supports the generation of multiple greeting cards for a single employee.
 Saves the generated cards as PNG images for distribution.
-Prerequisites:
-PyTorch
-PIL (Python Imaging Library)
-pandas
-gradio
-rembg
-torch
-numpy
