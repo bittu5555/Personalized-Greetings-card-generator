@@ -1,6 +1,8 @@
 **Personalized Greetings Card Generator**
 **Introduction:**
 The "Personalized Greetings Card Generator" is a creative system to send heartfelt expressions. Using advanced techniques like the Stable Diffusion model from Hugging Face, according to the prompt it transforms into unique background images, for greeting cards. Through a user-friendly gradio interface, individuals input details like the recipient's name, occasion, and preferences. Extract data from Excel sheets, that contain all details of employees. The process involves generating images with the pre-trained model, integrating personal photos, and adding custom text, with features like background removal and font selection. Finally, the generator saves each customized card with a unique filename, ready for preview and download. This innovative tool redefines how we offer a personalized wish in every greeting card.
+
+
 **Library used:**
 torch: PyTorch library, commonly used for deep learning tasks. In this case, it seems to be utilized for the Stable Diffusion model.
 Diffusers.:- Diffusers is the go-to library for state-of-the-art pre-trained diffusion models for generating images, audio, and even 3D structures.
