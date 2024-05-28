@@ -1,14 +1,14 @@
-**Personalized Greetings Card Generator**
 **Introduction:**
 The "Personalized Greetings Card Generator" is a creative system to send heartfelt expressions. Using advanced techniques like the Stable Diffusion model from Hugging Face, according to the prompt it transforms into unique background images, for greeting cards. Through a user-friendly gradio interface, individuals input details like the recipient's name, occasion, and preferences. Extract data from Excel sheets, that contain all details of employees. The process involves generating images with the pre-trained model, integrating personal photos, and adding custom text, with features like background removal and font selection. Finally, the generator saves each customized card with a unique filename, ready for preview and download. This innovative tool redefines how we offer a personalized wish in every greeting card.
 
 
 **Library used:**
-torch: PyTorch library, commonly used for deep learning tasks. In this case, it seems to be utilized for the Stable Diffusion model.
-Diffusers.:- Diffusers is the go-to library for state-of-the-art pre-trained diffusion models for generating images, audio, and even 3D structures.
-PIL (Python Imaging Library): Used for image processing tasks. It's employed for opening, manipulating, and saving images.
-pandas: A powerful data manipulation library used to read data from an Excel file into a Data-Frame.
-OS: The Python os module provides a way to interact with the operating system. It's used here to create directories and handle file operations.
+
+**torch:** PyTorch library, commonly used for deep learning tasks. In this case, it seems to be utilized for the Stable Diffusion model.
+**Diffusers.:-** Diffusers is the go-to library for state-of-the-art pre-trained diffusion models for generating images, audio, and even 3D structures.
+**PIL (Python Imaging Library):** Used for image processing tasks. It's employed for opening, manipulating, and saving images.
+**pandas:** A powerful data manipulation library used to read data from an Excel file into a Data-Frame.
+**OS:** The Python os module provides a way to interact with the operating system. It's used here to create directories and handle file operations.
 time: The time module is used for generating a timestamp that's appended to the generated image filenames.
 rembg (Remove Background): A library for removing the background from images. It seems to be applied to a personal photo in the project.
 numpy: A library for numerical operations. In this case, it's used to convert images to arrays for processing.
