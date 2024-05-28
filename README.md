@@ -8,3 +8,4 @@ Integrates the employee's personal photo into the generated card using backgroun
 Adds personalized text to the card, including birthday wishes and the employee's name.
 Supports the generation of multiple greeting cards for a single employee.
 Saves the generated cards as PNG images for distribution.
+![image](https://github.com/bittu5555/Personalized-Greetings-card-generator/assets/106305917/df9fc3c8-d54c-4db3-b78b-80963de5d36f)
