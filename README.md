@@ -7,7 +7,7 @@ The "Personalized Greetings Card Generator" is a creative system to send heartfe
 
 **Library used:**
 
-**torch:** PyTorch library, commonly used for deep learning tasks. In this case, it seems to be utilized for the Stable Diffusion model.
+* **torch:** PyTorch library, commonly used for deep learning tasks. In this case, it seems to be utilized for the Stable Diffusion model.
 
 **Diffusers:-** Diffusers is the go-to library for state-of-the-art pre-trained diffusion models for generating images, audio, and even 3D structures.
 
