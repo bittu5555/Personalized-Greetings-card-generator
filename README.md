@@ -76,3 +76,6 @@ The function returns the constructed prompt and a list of generated images to th
 **Result**
 
 ![image](https://github.com/bittu5555/Personalized-Greetings-card-generator/assets/106305917/d6adfd6f-cc61-4a8f-971d-af91543c4cdb)
+
+**Clone the repository**
+git clone https://github.com/Srikanta1122/Personalized_Greeting_Card_Generate.git
