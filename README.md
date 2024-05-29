@@ -4,6 +4,16 @@
 
 The "Personalized Greetings Card Generator" is a creative system to send heartfelt expressions. Using advanced techniques like the Stable Diffusion model from Hugging Face, according to the prompt it transforms into unique background images, for greeting cards. Through a user-friendly gradio interface, individuals input details like the recipient's name, occasion, and preferences. Extract data from Excel sheets, that contain all details of employees. The process involves generating images with the pre-trained model, integrating personal photos, and adding custom text, with features like background removal and font selection. Finally, the generator saves each customized card with a unique filename, ready for preview and download. This innovative tool redefines how we offer a personalized wish in every greeting card.
 
+**Model Details:**
+
+Stable Diffusion is a latent text-to-image diffusion model capable of generating photo-realistic images given any text input.
+Model type: Diffusion-based text-to-image generation model
+Model Description: This is a model that can be used to generate and modify images based on
+text prompts. It is a Latent Diffusion Model that uses a fixed, pre trained text encoder (CLIP
+ViT-L/14) as suggested in the Imagen paper.
+If GPU memory have less than 4GB of GPU RAM available, please make sure to load the
+StableDiffusionPipeline in float16 precision instead of the default float32 precision as done
+above.
 
 **Library used:**
 
