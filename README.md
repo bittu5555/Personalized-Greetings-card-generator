@@ -1,4 +1,7 @@
+![image](https://github.com/bittu5555/Personalized-Greetings-card-generator/assets/106305917/df9fc3c8-d54c-4db3-b78b-80963de5d36f)
+
 **Introduction:**
+
 The "Personalized Greetings Card Generator" is a creative system to send heartfelt expressions. Using advanced techniques like the Stable Diffusion model from Hugging Face, according to the prompt it transforms into unique background images, for greeting cards. Through a user-friendly gradio interface, individuals input details like the recipient's name, occasion, and preferences. Extract data from Excel sheets, that contain all details of employees. The process involves generating images with the pre-trained model, integrating personal photos, and adding custom text, with features like background removal and font selection. Finally, the generator saves each customized card with a unique filename, ready for preview and download. This innovative tool redefines how we offer a personalized wish in every greeting card.
 
 
@@ -60,4 +63,6 @@ After generating the personalized greeting card, the generated greeting card ima
 
 The function returns the constructed prompt and a list of generated images to the Gradio interface. The prompt may include details about the employee's preferences and characteristics. The interface displays the generated images in a gallery format, allowing users to preview and download them.
 
-![image](https://github.com/bittu5555/Personalized-Greetings-card-generator/assets/106305917/df9fc3c8-d54c-4db3-b78b-80963de5d36f)
+**Result**
+
+![image](https://github.com/bittu5555/Personalized-Greetings-card-generator/assets/106305917/d6adfd6f-cc61-4a8f-971d-af91543c4cdb)
